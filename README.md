@@ -19,3 +19,22 @@ Este documento muestra diferentes **elementos de Markdown**.
 ```python
 def hola():
     print("Hola Markdown")
+```
+
+### Citas
+> Esto es una cita de ejemplo.
+
+### Tabla
+| Nombre   | Edad | Ciudad     |
+|----------|------|------------|
+| Ana      | 25   | Madrid     |
+| Carlos   | 30   | Barcelona  |
+
+### Imagen externa con enlace
+[![Logo Python](https://www.python.org/static/community_logos/python-logo.png)](https://www.python.org)
+
+### Imagen local
+![Imagen local](images/ejemplo.png)
+
+### Enlace a otro documento
+Lee más en el documento [DETALLES.md](DETALLES.md).
